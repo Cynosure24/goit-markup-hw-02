@@ -72,6 +72,11 @@ body {
     color: #404bbf;
 }
 
+.pages-list:hover,
+.pages-list:focus {
+    color: #404bbf;
+}
+
 .address {
     font-family: "Roboto";
     font-size: 16px;
