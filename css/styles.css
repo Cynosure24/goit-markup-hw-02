@@ -22,16 +22,15 @@ body {
 
  /*header*/
 
- .list {
-    list-style: none;
- }
-
  .link {
     text-decoration: none;
  }
 
- 
-.link-logo.link {
+ .list {
+    list-style: none;
+ }
+
+.header-logo link {
     color:#4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -40,11 +39,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}
-
-.link-logo.link:hover,
-.link-logo.link:focus {
-    color: #404bbf;
 }
 
 .span-studio {
@@ -58,38 +52,46 @@ body {
     text-transform: uppercase;
 }
 
-.nav {
-    font-family: "Roboto";
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
-.nav-list { 
-    color: #2e2f42;
+.pages-list {
+    color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.5; 
+    line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.nav-list:hover
-.nav-list:focus {
-    color: #404bbf;
 }
 
 .pages-list:hover,
 .pages-list:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
-.link-nav.link:hover,
-.link-nav.link:focus {
-    color: #404bbf;
+.link-pages-list {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.link-pages-list:hover,
+.link-pages-list:focus {
+    color: #404BBF;
 }
 
 .address {
-    color: #2e2f42;
-    font-family: "Roboto";
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -102,24 +104,26 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.5; 
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
 .linktel {
-    color:#434455;
+    color: #434455;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.5; 
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.address-list.link:hover,
-.address-list link:focus {
-    color: #404bbf;
+.linkmail:hover,
+.linktel:focus {
+    color: #404BBF; 
 }
+
+
 
 /* main */
 
