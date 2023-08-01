@@ -112,8 +112,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.mail-link-item:hover,
-.tel-link-item:focus {
+.address-list:hover,
+.address-list:focus {
     color: #404BBF; 
 }
 
