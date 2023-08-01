@@ -58,7 +58,7 @@ body {
 }
 
 .nav-list { 
-    color: #2E2F42;
+    color: #2e2f42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
@@ -78,11 +78,12 @@ body {
 }
 
 .address {
+    color: #434455;
     font-family: "Roboto";
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    letter-spacing: 0.32px;
+    letter-spacing: 1.5;
 }
 
 .linkmail {
@@ -105,8 +106,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.linkmail:hover,
-.linktel:focus {
+.address:hover,
+.address:focus {
     color: #404BBF;
 }
 
