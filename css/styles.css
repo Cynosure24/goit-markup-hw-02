@@ -77,6 +77,11 @@ body {
     color: #404bbf;
 }
 
+.link-nav.link:hover,
+.link-nav.link:focus {
+    color: #404bbf;
+}
+
 .address {
     color: #434455;
     font-family: "Roboto";
