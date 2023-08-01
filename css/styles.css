@@ -116,9 +116,9 @@ body {
     letter-spacing: 0.02em;
 }
 
-.address:hover,
-.address:focus {
-    color: #404BBF;
+.address-list.link:hover,
+.address-list link:focus {
+    color: #404bbf;
 }
 
 /* main */
