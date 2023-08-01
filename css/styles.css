@@ -112,8 +112,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.linkmail:hover,
-.linktel:focus {
+.address-list:hover,
+.address-list:focus {
     color: #404BBF; 
 }
 
