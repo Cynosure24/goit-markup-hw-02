@@ -100,8 +100,8 @@ body {
     color: #434455;
   }
 
-  .header-address-list-item:hover,
-  .header-address-list-item:focus {
+  .link-header-address-list:hover,
+  .link-header-address-list:focus {
     color: #404BBF;
   }
 
