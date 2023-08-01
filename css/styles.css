@@ -90,24 +90,20 @@ body {
 }
 
 .header-address {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
     font-style: normal;
-    font-weight: 400;
-    letter-spacing: 1.5;
 }
 
 .header-address-list {
-    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
+    color: #434455;
+  }
 
-.header-address-list:hover,
-.header-address-list:focus {
-    color: #404BBF; 
-}
+  .header-address-list-item:hover,
+  .header-address-list-item:focus {
+    color: #404BBF;
+  }
 
 
 
