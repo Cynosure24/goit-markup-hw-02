@@ -89,7 +89,7 @@ body {
     color: #404BBF;
 }
 
-.address {
+.header-address {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -98,22 +98,15 @@ body {
     letter-spacing: 1.5;
 }
 
-.mail-link {
+.header-address-list {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.tel-link {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.address-list:hover,
-.address-list:focus {
+.header-address-list-item:hover,
+.header-address-list-item:focus {
     color: #404BBF; 
 }
 
